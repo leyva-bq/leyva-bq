@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! o/
+
+***
+
+I'm **Luis Leyva**, an aspiring **Data Scientist** with interests in **AI**, **Machine Learning**, & all things **Mathematics**.
 
 <!--
 **leyva-bq/leyva-bq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
