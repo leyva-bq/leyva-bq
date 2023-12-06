@@ -1,8 +1,14 @@
-### Hello! o/
+<h1> Hello! I'm Luis Leyva </h1>
+<img align="right" src="https://gifdb.com/images/high/black-cat-typing-fast-z5sz7os422wrp0pt.gif" width="30%"/>
 
-***
+<p> I'm an aspiring <b>Data Scientist</b> with interests in <b>AI</b>, <b>Machine Learning</b>, & all things <b>Mathematics.<b> </p>
 
-I'm **Luis Leyva**, an aspiring **Data Scientist** with interests in **AI**, **Machine Learning**, & all things **Mathematics**.
+<!--
+<h2>Socials</h2>
+<ul>
+  <li>Test</li>
+</ul>
+-->
 
 <!--
 **leyva-bq/leyva-bq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
